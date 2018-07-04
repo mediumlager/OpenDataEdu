@@ -3,4 +3,4 @@ dependencies:
   - numpy
   - pip
   - pip:
-      - c++
+      - c
