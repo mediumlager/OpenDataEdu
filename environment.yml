@@ -1,10 +1,4 @@
 dependencies:
-  - matplotlib
-  - numpy
-  - scipy
-  - pandas
-  - geopandas
-  - folium
   - pip
   - pip:
-      - c
+      - cpp
