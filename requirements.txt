@@ -1,6 +1,1 @@
-numpy
-scipy
-matplotlib
-pandas
-geopandas
-folium
+
