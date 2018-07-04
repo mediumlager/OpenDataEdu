@@ -2,8 +2,11 @@
 
 To use C++ with Jupyter Notebook (with MyBinder):
   - create file readthedocs.yml, which contains:
-              conda:
-              file: docs/environment.yml
+  
+      conda:
+      
+      file: docs/environment.yml
+      
   - create file environment.yml:
               name: xeus-cling
               channels:
