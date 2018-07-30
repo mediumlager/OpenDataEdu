@@ -4,4 +4,4 @@ scipy
 pandas
 geopandas
 folium
-peakdetect
+oct2py
